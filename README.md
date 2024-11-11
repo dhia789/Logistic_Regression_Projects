@@ -4,7 +4,7 @@
 
 ## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15/)
 
-> ### [This lesson is available in R!](./solution/R/lesson_4.html)
+> ### [This lesson is available in python!]
 
 ## Introduction
 
